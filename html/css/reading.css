@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap");
+
+body {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #0e0e0e;
+  background-image: url(https://t4.ftcdn.net/jpg/04/88/65/53/360_F_488655315_nqf6mdNzrM1dVgvDUGnnlambZfVhpo1m.jpg);
+}
+
+.start {
+  text-align: center;
+  background: #b2beb5;
+  border: 5px #2b5353 solid;
+}
+li {
+  list-style-type: none;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  background: #b2beb5;
+}
+.hate {
+  text-align: center;
+  background: #b2beb5;
+  border: 5px #2b5353 solid;
+}
+
+.fave {
+  text-align: center;
+  background: #b2beb5;
+  border: 5px #2b5353 solid;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.current {
+  text-align: center;
+  background: #b2beb5;
+  border: 5px #2b5353 solid;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #6e7f80;
+  border-style: groove;
+  border-color: #4b5657;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 15px;
+  display: inline-block;
+  padding: 5px;
+  margin-right: 20px;
+}
+.button:hover {
+  background: #8e9a9b;
+}
