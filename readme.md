@@ -1,1 +1,1 @@
-My files are a mess because I couldn't get the CSS to work in its own file. Sorry for the clutter just wanted my website to render the right way. 
+My files are a mess because I couldn't get one overall CSS to work for every html page, and they wouldn't render when moved into the separate CSS folder I setup. Sorry for the clutter just wanted my website to render the right way. Also have additional images that didn't show up. I finished this in my free time so would need some troubleshooting to setup better.
